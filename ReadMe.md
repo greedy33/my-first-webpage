@@ -17,7 +17,7 @@
 ###Contact @greedy33 if you have any issues
 
 ## Technologies Used
-###HTML
+* HTML
 
 
 Copyright (c) 2017
