@@ -13,11 +13,13 @@ p{
 }
 
 ul{
-  font-size: 18px;
-  line-height: 30px;
+  font-size: 15px;
+  line-height: 23px;
+  font-family: sans-serif;
 }
 
 ol{
-  font-size: 18px;
-  line-height: 30px;
+  font-size: 15px;
+  line-height: 23px;
+  font-family: sans-serif;
 }
